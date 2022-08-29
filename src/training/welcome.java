@@ -8,6 +8,7 @@ public class welcome {
 		System.out.println("Program by Sheetal, Aruna and Moorty");
 		System.out.println("Welcome to the Jenkins Master Tool for Integration");
 		System.out.println("Testing Webhook Trigger");
+		System.out.println("Testing another project");
 		
 	}
 
